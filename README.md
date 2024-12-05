@@ -528,13 +528,22 @@ footer {
 
 ## OUTPUT:
 
-![alt text](<indhu/restapp/static/s1 (1).png>)
+![alt text](indhu/restapp/static/s1.png)
 
-![alt text](<indhu/restapp/static/s1 (2).png>)
+![alt text](indhu/restapp/static/s2.png)
 
-![alt text](<indhu/restapp/static/s1 (3).png>)
+![alt text](indhu/restapp/static/s3.png)
 
-![alt text](<indhu/restapp/static/s1 (4).png>)
+![alt text](indhu/restapp/static/s4.png)
+
+![alt text](indhu/restapp/static/s5.png)
+
+![alt text](indhu/restapp/static/s6.png)
+
+![alt text](indhu/restapp/static/s7.png)
+
+![alt text](indhu/restapp/static/s8.png)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
