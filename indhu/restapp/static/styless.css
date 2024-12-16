@@ -43,3 +43,24 @@
     font-weight: bold;
     margin-top: 10px;
 }
+
+/* Navigation Styles */
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    list-style: none;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}

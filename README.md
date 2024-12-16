@@ -532,7 +532,7 @@ footer {
 
 ![alt text](indhu/restapp/static/s2.png)
 
-![alt text](indhu/restapp/static/s3.png)
+![alt text](indhu/restapp/static/image.png)
 
 ![alt text](indhu/restapp/static/s4.png)
 
@@ -540,7 +540,7 @@ footer {
 
 ![alt text](indhu/restapp/static/s6.png)
 
-![alt text](indhu/restapp/static/s7.png)
+![alt text](<indhu/restapp/static/Screenshot 2024-12-16 135034.png>)
 
 ![alt text](indhu/restapp/static/s8.png)
 
